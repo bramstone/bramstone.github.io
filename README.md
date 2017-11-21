@@ -1,5 +1,2 @@
-# bramstone.github.io
-
-##Project Portfolio
-
-###Bram Stone
+## Project Portfolio
+### Bram Stone
