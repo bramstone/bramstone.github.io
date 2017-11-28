@@ -1,5 +1,5 @@
 # Project Portfolio
-### Bram Stone
+### *Bram Stone*
 
 ## Mapping, Visualization, and Data Exploration: US Coal Production
 [Repository](https://github.com/bramstone/US-Coal-Production), [Project Narrative](https://github.com/bramstone/US-Coal-Production/blob/master/project_narrative.md)  
