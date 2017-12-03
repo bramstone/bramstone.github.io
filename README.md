@@ -1,5 +1,6 @@
 # Project Portfolio
 ### *Bram Stone*
+[Academic CV](https://github.com/bramstone/bramstone.github.io/blob/master/Curriculum%20Vitae.pdf)
 
 ## *Data Exploration*
 
