@@ -14,6 +14,12 @@ Visualization and mapping of trends in coal mining in the United States from 200
 ---
 ## *Predictive Modeling*
 
+### Predicting US Mining Accidents
+[Repository](https://github.com/bramstone/Predicting-US-Mining-Accidents), [Project Narrative (Jupyter Notebook)](https://github.com/bramstone/Predicting-US-Mining-Accidents/blob/master/project_narrative.ipynb)
+This project utilizes the `numpy`, `pandas`, and `matplotlib` python libraries.
+
+The goal of this project is to predict the frequency of mining-relateda accidents in the United States. Raw data were obtained in txt files from the Mine Safety and Health Administration (MSHA), which is under the US Department of Labor. Accidents occurrences are given from 2000 to 2017.
+
 ---
 ## *Statistical Programming*
 
